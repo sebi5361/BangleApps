@@ -4188,7 +4188,7 @@
     "readme": "README.md",
     "storage": [
       {"name":"devapplauncher.app.js","url":"devapplauncher.app.js"},
-      {"name":"devapplauncher.img","url":"devapplauncher.icon.js","evaluate":true}
+      {"name":"devapplauncher.img","url":"devapplauncher-icon.js","evaluate":true}
     ]
   }
 ]

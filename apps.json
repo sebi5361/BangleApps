@@ -2859,7 +2859,7 @@
     "description": "Simple file manager, allows user to examine watch storage and display, load or delete individual files",
     "icon": "icons8-filing-cabinet-48.png",
     "tags": "tools",
-    "supports": ["BANGLEJS"],
+    "supports": ["BANGLEJS","BANGLEJS2"],
     "readme": "README.md",
     "storage": [
       {"name":"fileman.app.js","url":"fileman.app.js"},
@@ -4177,18 +4177,18 @@
     "data": [{ "name": "qalarm.json" }]
   },
   {
-    "id": "applauncher",
-    "name": "App Launcher",
-    "shortName": "App Laucher",
+    "id": "devapplauncher",
+    "name": "Development App Launcher",
+    "shortName": "Dev App Launcher",
     "version": "0.01",
-    "description": "Simple app launcher, allows user to load app.js files",
-    "icon": "icons8-filing-cabinet-48.png",
+    "description": "Simple launcher for development apps (*.app.js files with no entries in the default launcher). Simplifies the development workflow.",
+    "icon": "icons8-rocket-48.png",
     "tags": "tools",
     "supports": ["BANGLEJS2"],
     "readme": "README.md",
     "storage": [
-      {"name":"applauncher.app.js","url":"applauncher.app.js"},
-      {"name":"applauncher.img","url":"applauncher-icon.js","evaluate":true}
+      {"name":"devapplauncher.app.js","url":"devapplauncher.app.js"},
+      {"name":"devapplauncher.img","url":"devapplauncher.icon.js","evaluate":true}
     ]
   }
 ]

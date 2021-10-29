@@ -1,4 +1,4 @@
-# App Laucher
+# App Launcher
 
 A small file manager, mostly written for debugging issues on the watch.
 Upon opening, the app will display a list of all the files in storage (it will contract the sub-components of a StorageFile into one entry).

@@ -4177,11 +4177,11 @@
     "data": [{ "name": "qalarm.json" }]
   },
   {
-    "id": "applaucher",
+    "id": "applaunch",
     "name": "App Launcher",
     "shortName": "AppLauch",
     "version": "0.01",
-    "description": "Simple app laucher, allows user to load app.js files",
+    "description": "Simple app launcher, allows user to load app.js files",
     "icon": "icons8-filing-cabinet-48.png",
     "tags": "tools",
     "supports": ["BANGLEJS2"],

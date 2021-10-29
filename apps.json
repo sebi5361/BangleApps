@@ -4177,9 +4177,9 @@
     "data": [{ "name": "qalarm.json" }]
   },
   {
-    "id": "applaunch",
+    "id": "applauncher",
     "name": "App Launcher",
-    "shortName": "AppLauch",
+    "shortName": "App Laucher",
     "version": "0.01",
     "description": "Simple app launcher, allows user to load app.js files",
     "icon": "icons8-filing-cabinet-48.png",
@@ -4187,8 +4187,8 @@
     "supports": ["BANGLEJS2"],
     "readme": "README.md",
     "storage": [
-      {"name":"applaunch.app.js","url":"applaunch.app.js"},
-      {"name":"applaunch.img","url":"applaunch-icon.js","evaluate":true}
+      {"name":"applauncher.app.js","url":"applauncher.app.js"},
+      {"name":"applauncher.img","url":"applauncher-icon.js","evaluate":true}
     ]
   }
 ]

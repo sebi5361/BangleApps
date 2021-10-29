@@ -4177,8 +4177,8 @@
     "data": [{ "name": "qalarm.json" }]
   },
   {
-    "id": "devapplauncher",
-    "name": "Development App Launcher",
+    "id": "devapplaunch",
+    "name": "Dev App Launcher",
     "shortName": "Dev App Launcher",
     "version": "0.01",
     "description": "Simple launcher for development apps (*.app.js files with no entries in the default launcher). Simplifies the development workflow.",
@@ -4187,8 +4187,8 @@
     "supports": ["BANGLEJS2"],
     "readme": "README.md",
     "storage": [
-      {"name":"devapplauncher.app.js","url":"devapplauncher.app.js"},
-      {"name":"devapplauncher.img","url":"devapplauncher.icon.js","evaluate":true}
+      {"name":"devapplaunch.app.js","url":"devapplaunch.app.js"},
+      {"name":"devapplaunch.img","url":"devapplaunch.icon.js","evaluate":true}
     ]
   }
 ]

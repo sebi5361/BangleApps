@@ -4175,5 +4175,20 @@
       { "name": "qalarm.wid.js", "url": "widget.js" }
     ],
     "data": [{ "name": "qalarm.json" }]
+  },
+  {
+    "id": "applaucher",
+    "name": "App Launcher",
+    "shortName": "AppLauch",
+    "version": "0.01",
+    "description": "Simple file manager, allows user to examine watch storage and display, load or delete individual files",
+    "icon": "icons8-filing-cabinet-48.png",
+    "tags": "tools",
+    "supports": ["BANGLEJS2"],
+    "readme": "README.md",
+    "storage": [
+      {"name":"fileman.app.js","url":"fileman.app.js"},
+      {"name":"fileman.img","url":"fileman-icon.js","evaluate":true}
+    ]
   }
 ]
